@@ -1,8 +1,8 @@
-# JiseopYoon
-## I am...     
-# a student
-## I'm interested in...
+# JiseopYoon     
+# A student
+# Interest
 # python, swift 
+# My stats
  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiseopYoon0526)](https://github.com/anuraghazra/github-readme-stats)
 
