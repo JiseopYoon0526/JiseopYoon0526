@@ -1,6 +1,6 @@
 # JiseopYoon     
 ### A student
-# Interest
+# Interests
 ### python, swift 
 # My stats
  
