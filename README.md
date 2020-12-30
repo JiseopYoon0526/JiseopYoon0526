@@ -1,8 +1,8 @@
  # JiseopYoon
  ## I am...     
- ### a student
+ ## a student
  ## I'm interested in...
-### python, swift 
+## python, swift 
  
 
 
