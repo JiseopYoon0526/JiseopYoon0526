@@ -1,5 +1,5 @@
 # JiseopYoon     
-### A student
+### JBSH 31th
 # Interests
 ### python, swift 
 # My stats
