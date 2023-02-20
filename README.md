@@ -1,7 +1,8 @@
 # JiseopYoon     
 ### JBSH 31th
+### SKKU SoftWare 23
 # Interests
-### python, swift 
+### python, C
 # My stats
  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiseopYoon0526)](https://github.com/anuraghazra/github-readme-stats)
